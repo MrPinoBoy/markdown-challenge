@@ -38,4 +38,4 @@ I was at my best friend's for the week, and we heard that Pokemon GO was finally
 ### TL:DR 
 We wanted to play Pokemon GO with my best friend, but instead drove straight into his garage door, breaking it in the process
 
-[<< Previous](https://github.com/Thibaut3005/arkdown-challenge-) || THOMAS BEAUPAIN || [Next >>](https://github.com/William-Deville/markdown-challenge)
+[<< Previous](https://github.com/Thibaut3005/markdown-challenge-) || THOMAS BEAUPAIN || [Next >>](https://github.com/William-Deville/markdown-challenge)
