@@ -7,7 +7,7 @@
 ## I work hard, I think hard, I sleep hard.
 
 | About me |  |
-| ---------- |:----------|
+|:---------- |:----------|
 | Birthday: | 14/03 |
 | Favorite color: | Blue |
 | Favorite food: | Chilli con Carne / Pizza **without** pineapple |
