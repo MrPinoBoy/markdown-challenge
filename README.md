@@ -30,7 +30,7 @@
 
 Something needs explaining, or when someone needs help. I like to take the time to bring everyone up to date :)
 
-## A funny story
+## A funny story :clown_face:
 
 *It was a long time ago... When Pokemon GO had just been released...*
 
