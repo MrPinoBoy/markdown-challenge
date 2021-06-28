@@ -2,7 +2,7 @@
 
 *Nothing will work unless you do*
 
-![Me](photo.jpg)
+![Me](photo1.jpg)
 
 ## I work hard, I think hard, I sleep hard.
 
