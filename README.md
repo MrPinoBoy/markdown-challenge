@@ -11,7 +11,7 @@
 | Birthday: | 14/03 |
 | Favorite color: | Blue |
 | Favorite food: | Chilli con Carne /Pizza without pineapple |
-| Pineapple on pizza: | <ul><li> - [] Yes </li> <li> - [x] Normal human being (No) </li></ul> |
+| Pineapple on pizza: | <ul><li> - [ ] Yes </li> <li> - [x] Normal human being (No) </li></ul> |
 
 ## Hobbies
 
